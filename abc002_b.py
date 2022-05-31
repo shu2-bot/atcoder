@@ -1,1 +1,0 @@
-print(''.join(filter(lambda x: x not in 'aiueo', input())))
